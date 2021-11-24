@@ -2,5 +2,5 @@
     display: none;
 }
 .dropMenuBtn :hover{
-    display: content;
+    display: block;
 }
